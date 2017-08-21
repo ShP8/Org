@@ -1,0 +1,50 @@
+* Desctop
+* x120
+** TODO DoubleBoot
+- Lubuntu
+- W3 WM
+- Выбрать терминал
+- W7
+** USB Boot 
+- Kali
+- Arch
+** HardWare
+- Pay SSD 120GB SATAII
+- Pay RAM DDR3 2x8GB
+* Nexus
+** USB OTG
+** ADB
+- BackUp
+** Termux добавить .rcbash
+* Alcatel
+* Net
+* Raspberry
+** readonly
+* Arduino
+* Out Server
+* Home Server
+** Loging All
+** NAS
+** SmartHome
+** Work Station
+*** Rendering
+*** 3D modeling
+*** Mat modeling
+*** Web Server
+* Reserch
+** AirWarding
+** Radio
+** BT monir
+* HardWare
+** Купить радиоприемник SRD + GNURadio
+** Купить WiFi Alfa
+** Телескоп и низкоуровневую камеру
+** Фотоаппорат
+** HDMI кабель
+*** Переходник HDMI-DVI
+** PowerBank
+** Вибронаушники
+** e-ink reader
+* SoftWare
+** Загрузочные скрипты на необходимый софт
+

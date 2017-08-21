@@ -1,0 +1,76 @@
+* Английский
+- Чтение
+- Письмо
+- Слушание
+- Говорение
+Караоке по английский
+** Получить TOFL или EOFL
+* Скорочтение
+** Написать веб приложение на телефон как AceReader и плагин для fbreader для логирования чтения и скорости перелистывания страниц
+** Больше читать
+** Прочитать еще книжки про скорочтнение
+** Допройти AceReader
+** Поставить AR на x120
+** Pomidoro
+* IT skill
+** Orgmode
+** Python
+*** OCV
+*** cython
+** MD
+** LaTeX
+** Lua
+** C
+*** CUDA
+*** Intel Parralel Studio Profiller
+** SQL
+** web
+*** HTML5
+*** CSS
+*** JS
+**** D3
+**** Canvas
+**** Nodejs
+**** Blend4Web и WebGL i3
+*** SVG
+** data analise
+*** data viz
+*** R
+*** maping
+*** API
+*** graph
+** git
+** Linux
+** power shell
+** asm
+* Managment
+** Диаграммы Ганта и MS Project
+** JIRA
+*** Сравнить и погонять YouTrack
+* Sistem Ingenering
+** SysML
+** Sys Dinamics model
+* HDL
+** FPGA запусть SDK 
+** HDL
+** Какие языки вообще используются и какие сейчас модные на habr
+* ТАУ
+** MatLAB Simulink
+* Аккаунты
+** OSM
+** Wiki
+** GitHub
+** Google
+** Yandex
+** Dropbox
+* Reserch
+** Octopress
+** Tablo
+** Map hight 5m
+* CAD CAE
+** Catia
+** Maya
+** Blender
+** 3D Max
+** Cinema4D
+** SolidWorks
