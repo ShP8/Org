@@ -42,6 +42,7 @@
 ** Фотоаппорат
 ** HDMI кабель
 *** Переходник HDMI-DVI
+*** Переходник Eth1GB-USB3
 ** PowerBank
 ** Вибронаушники
 ** e-ink reader
