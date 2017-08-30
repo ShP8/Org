@@ -1,22 +1,27 @@
 * Desctop
+* BackUp HDD 320Gb
 * x120
 ** TODO DoubleBoot
 - Lubuntu
-- W3 WM
+- W3 WM in docker
 - Выбрать терминал
+- удаленные рабочий стол
 - W7
 ** USB Boot 
+*** USB3 64Gb 
+*** 2 USB2 32Gb SmileBox for Boot
 - Kali
 - Arch
+- Win Strelech
 ** HardWare
-- Pay SSD 120GB SATAII
-- Pay RAM DDR3 2x8GB
+- Pay SSD 120GB SATAII for x120e
+- Pay RAM DDR3 2x8GB for x120e
 * Nexus
-** USB OTG
-** ADB
+** USB OTG Software
+** ADB in x120e
 - BackUp
 ** Termux добавить .rcbash
-* Alcatel
+* Alcatel для WiFi дайвинга
 * Net
 * Raspberry
 ** readonly
@@ -39,6 +44,7 @@
 ** Купить радиоприемник SRD + GNURadio
 ** Купить WiFi Alfa
 ** Телескоп и низкоуровневую камеру
+- Телескоп или зеркальный параболический Ньютон или Зеркально-линзовый Кессегрен, но тогда это только для видимого, но для ДИК все-равно не хватит диафрагменного числа.
 ** Фотоаппорат
 ** HDMI кабель
 *** Переходник HDMI-DVI
