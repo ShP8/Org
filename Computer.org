@@ -3,10 +3,9 @@
 * x120
 ** TODO DoubleBoot
    - Lubuntu
-   - W3 WM in docker
+   - W7
    - Выбрать терминал
    - удаленные рабочий стол
-   - W7
 ** USB Boot 
 *** USB3 64Gb 
 *** 2 USB2 32Gb SmileBox for Boot
@@ -14,19 +13,19 @@
     - Arch
     - Win Strelech
 ** HardWare
-   - Pay SSD 120GB SATAII for x120e
-   - Pay RAM DDR3 2x8GB for x120e
-   - BIOS2.15
+   - SSD 120GB SATAII for x120e
+   - RAM DDR3 2x8GB for x120e
+   - BIOS v2.17
 * Nexus
 ** USB OTG Software
 ** ADB in x120e
    - BackUp
 ** Termux добавить .rcbash
-* Alcatel для WiFi дайвинга
 * Net
 * Raspberry
 ** readonly
 ** Raspberry Pi Zero W купить $3x1500р$ и 3 камеры 1NoIR $800р$ и 2 обычные $500р$ для стерео обтягивать в термоусадку
+** Или купить 2 USB-камеры 640х480 с легкоразборным корпусом и менять 6мм объективы
 ** Case металлический
 ** Экран 3.5"
 * Arduino
@@ -34,6 +33,8 @@
 * Home Server
 ** Loging All
 ** NAS
+*** 2ТБ винт в рейд-массиве
+*** Локальная WiFi и Eth сеть
 ** SmartHome
 ** Work Station
 *** Rendering
@@ -66,10 +67,11 @@
 ** Электромясорубка $3500р$
 * SoftWare
 ** Загрузочные скрипты на необходимый софт
-** Браузер Surf (only Linux)
+** Браузер Surf (only Linux) 
+** Dmenu для быстрой навигации по компьютеру из терминала
 ** Emacs +orgmode +literalcode
 ** Bugzilla
-** AWS
+** Amazone WebServer
 ** LaTeX
 ** GNU Radio
 ** Тестирование и TDD
