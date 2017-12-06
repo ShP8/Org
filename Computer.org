@@ -2,10 +2,10 @@
 * BackUp HDD 320Gb
 * x120
 ** TODO DoubleBoot
-   - Lubuntu
-   - W7
-   - Выбрать терминал
-   - удаленные рабочий стол
+*** Lubuntu
+*** W7
+*** Выбрать терминал
+*** удаленные рабочий стол
 ** USB Boot 
 *** USB3 64Gb 
 *** 2 USB2 32Gb SmileBox for Boot

@@ -3,16 +3,16 @@ DEADLINE: <2018-01-01 Пн>
 * 6Н9С лампа Пр
 * Батарейка АА для мыши
 ** DONE Разобрать зарядку АА
-** Air BT WF
-** Nexus Диктофон исследовать и альтрнативы
-** IRC gui android
-** x120 SysML tool
-** Linux paint
-** Lua books
-** Отключить кнопки трекпада x120e
-** Fb2 plugin log speed read
-** x120 photoshop
-** x120 md editor
+* Air BT WF
+* Nexus Диктофон исследовать и альтрнативы
+* IRC gui android
+* x120 SysML tool
+* Linux paint
+* Lua books
+* Отключить кнопки трекпада x120e
+* Fb2 plugin log speed read
+* x120 photoshop
+* x120 md editor
 * Фотоархив
 ** Заказать стекло А4
 ** Забрать пленки
