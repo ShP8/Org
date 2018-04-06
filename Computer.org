@@ -13,7 +13,7 @@
     - Arch
     - Win Strelech
 ** HardWare
-   - SSD 120GB SATAII for x120e
+   - SSD 240GB SATAII for x120e
    - RAM DDR3 2x8GB for x120e
    - BIOS v2.17
 * Nexus
@@ -82,3 +82,4 @@
 ** Карты Коханена
 ** Конечные автоматы
 ** Марковские сети
+** В TotalCommander скрывать меню и они работает как dMenu - очень удобно
